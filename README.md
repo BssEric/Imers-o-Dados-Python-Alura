@@ -41,4 +41,4 @@ Realizar a exploração, limpeza e análise de um conjunto de dados, identifican
 
 ---
 
-🔗 Link do projeto:
+🔗 Link do projeto: https://imers-o-dados-python-alura2026.streamlit.app/
